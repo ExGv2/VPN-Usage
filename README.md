@@ -15,7 +15,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10
+- Windows 10 (22H2)
 
 - <h2>Tutorial on VPN and Azure installation</h2>
 
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/286e357f-d146-476d-a2c3-208d1c6fe3a2)
 
-- Step4: Select "+ Create", then select "Azure virtual machine"
+- Step 4: Select "+ Create", then select "Azure virtual machine"
 
 ![image](https://github.com/user-attachments/assets/38cd5c19-ae29-4297-a7b5-969c87f3007a)
 
@@ -43,6 +43,21 @@
 ![image](https://github.com/user-attachments/assets/ef450f2e-9c5b-4ed8-869e-07c78bc1b883)
 
 - Step 6: Name your vitual machine to whatever you like, for "region", select any, for a better representation select a region OUTSIDE your country
+
+![image](https://github.com/user-attachments/assets/6aa292fd-3b87-4c94-979a-49ae4c8fc13d)
+
+- Step 7: Select "Zone 1" (May vary based on location), select Windows 10 Pro (22H2), select Size of 2 vcpus (no more than 2 is required for this tutorial)
+
+![image](https://github.com/user-attachments/assets/7f231840-7014-46eb-9f30-2bad36515f41)
+
+- Step 8: Create a username and password (Take note of it before proceeding), next check "Licensing" box, then select "Review + create" (you can skip all other settings).
+
+![image](https://github.com/user-attachments/assets/0c2c40ec-a3a9-4e24-9c91-4d4c9dc99a19)
+
+- Step 9: If everything went accordingly, you should be able to "create" your virual machine (be patient, it will take a moment to create).
+
+- Step 10: 
+
 
 
 
