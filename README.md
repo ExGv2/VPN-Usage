@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/9757a3b3-2a84-4277-a920-b419589441b0" alt="osTicket logo"/>
 </p
 
-<h1>This simple tutorial will outline the method of creating a vitual machine and how to "mask" its local IP address.</h1>
+<h1>This simple tutorial will outline the method of creating a vitual machine and how to change its local IP address using a VPN.</h1>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -17,7 +17,7 @@
 
 - Windows 10 (22H2)
 
-- <h2>Tutorial on VPN and Azure installation</h2>
+- <h2>Tutorial on VPN and Azure setup</h2>
 
 ![image](https://github.com/user-attachments/assets/f90c8351-3aee-4728-bfb2-1217af2c0c2c)
 
@@ -46,7 +46,7 @@
 
 ![image](https://github.com/user-attachments/assets/6aa292fd-3b87-4c94-979a-49ae4c8fc13d)
 
-- Step 7: Select "Zone 1" (May vary based on location), select Windows 10 Pro (22H2), select Size of 2 vcpus (no more than 2 is required for this tutorial)
+- Step 7: Select "Zone 1" (May vary based on location), select Windows 10 Pro (22H2), select "size" 2 vcpus (no more than 2 is required for this tutorial)
 
 ![image](https://github.com/user-attachments/assets/7f231840-7014-46eb-9f30-2bad36515f41)
 
