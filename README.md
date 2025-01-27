@@ -84,7 +84,7 @@
 
 - Step 16: Go back to https://whatismyipaddress.com/ - If done correctly you should now see a different IP address from the previous one you had.
 
-- This should give an overview of how VPNs work and can work within a virtual machine as well.
+This should give an overview of how VPNs work and can work within a virtual machine as well.
 
 
 
