@@ -62,7 +62,30 @@
 
 ![image](https://github.com/user-attachments/assets/d8d6f3bd-111f-4983-abc4-541864cf72e4)
 
-- Step 11: Once logged in the VM, open EDGE, then type https://whatismyipaddress.com/ within the VM (Take note of it before proceeding).
+- Step 11: Once logged in the VM, open MS EDGE, then type https://whatismyipaddress.com/ within the VM (Take note of it before proceeding).
+
+![image](https://github.com/user-attachments/assets/28485ac9-e4e0-4822-9926-4cd330382f4e)
+
+- Step 12: In this tutorial we will be using PROTON VPN to demonstrate. Sign up for a free account at this URL https://account.protonvpn.com/signup?plan=free&language=en
+
+![image](https://github.com/user-attachments/assets/5103c03e-9a15-4840-89b0-1ea73ac5e117)
+
+- Step 13: Once you've signed up for your free account, you will login with your credentials IN the VM, then download the PROTON VPN Software (Windows for this tutorial).
+
+![image](https://github.com/user-attachments/assets/2270bb48-f33c-49d9-a92e-f962ff5ff705)
+
+- Step 14: Once logged to PROTON VPN select "Quick Connect" (FREE version only allows us to auto-assign a server by PROTON).
+
+![image](https://github.com/user-attachments/assets/bf0e2097-62d5-4194-97b0-11d488b3e615)
+
+- Step 15: Once you've connected, you should see a connection established to a server (example above)
+
+![image](https://github.com/user-attachments/assets/baf1378b-bbf9-40b7-9c01-4bd048d3e594)
+
+- Step 16: Go back to https://whatismyipaddress.com/ - If done correctly you should now see a different IP address from the previous one you had.
+
+- This should give an overview of how VPNs work and can work within a virtual machine as well.
+
 
 
 
