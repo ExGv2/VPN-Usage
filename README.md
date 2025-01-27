@@ -1,4 +1,4 @@
-# VPN - Demonstrating changes in IP address using a Virtual Private Network (AZURE)
+# VPN - Demonstrating changes in IP address using a Virtual Machine & Virtual Private Network (AZURE) - (PROTON)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9757a3b3-2a84-4277-a920-b419589441b0" alt="osTicket logo"/>
@@ -10,8 +10,9 @@
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop
+- Remote Desktop Connection
 - Laptop/desktop
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
@@ -20,7 +21,6 @@
 - <h2>Tutorial on VPN and Azure setup</h2>
 
 ![image](https://github.com/user-attachments/assets/f90c8351-3aee-4728-bfb2-1217af2c0c2c)
-
 
 - Step 1: Browse to https://whatismyipaddress.com/ (Take note of your own IP addresses PERSONAL COMPUTER)
 
@@ -66,15 +66,15 @@
 
 ![image](https://github.com/user-attachments/assets/28485ac9-e4e0-4822-9926-4cd330382f4e)
 
-- Step 12: In this tutorial we will be using PROTON VPN to demonstrate. Sign up for a free account at this URL https://account.protonvpn.com/signup?plan=free&language=en
+- Step 12: In this tutorial we will be using PROTON VPN. Sign up for a free account at this URL - https://account.protonvpn.com/signup?plan=free&language=en
 
 ![image](https://github.com/user-attachments/assets/5103c03e-9a15-4840-89b0-1ea73ac5e117)
 
-- Step 13: Once you've signed up for your free account, you will login with your credentials IN the VM, then download the PROTON VPN Software (Windows for this tutorial).
+- Step 13: Once you've signed up for your free account, you will login with your credentials IN the virtual machine, then download the PROTON VPN Software (For this tutorial we'll use Windows).
 
 ![image](https://github.com/user-attachments/assets/2270bb48-f33c-49d9-a92e-f962ff5ff705)
 
-- Step 14: Once logged to PROTON VPN select "Quick Connect" (FREE version only allows us to auto-assign a server by PROTON).
+- Step 14: Once logged in to PROTON VPN select "Quick Connect" (The FREE version only allows us to auto-assign a server by PROTON).
 
 ![image](https://github.com/user-attachments/assets/bf0e2097-62d5-4194-97b0-11d488b3e615)
 
