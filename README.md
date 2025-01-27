@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/f90c8351-3aee-4728-bfb2-1217af2c0c2c)
 
 
-- Step 1: Browse to https://whatismyipaddress.com/ (Take note of your own IP address)
+- Step 1: Browse to https://whatismyipaddress.com/ (Take note of your own IP addresses PERSONAL COMPUTER)
 
 ![image](https://github.com/user-attachments/assets/7a1d5e54-02b9-436c-9187-6a3b0f0be501)
 
@@ -56,7 +56,13 @@
 
 - Step 9: If everything went accordingly, you should be able to "create" your virual machine (be patient, it will take a moment to create).
 
-- Step 10: 
+![image](https://github.com/user-attachments/assets/24002bc0-8793-444d-bfcc-957cf6db1b6c)
+
+- Step 10: Login to your virtual machine by opening "Remote Desktop Connection", then copy the public IP address provided to you to login, your credentials will be the one you created before creating the virtual machine.
+
+![image](https://github.com/user-attachments/assets/d8d6f3bd-111f-4983-abc4-541864cf72e4)
+
+- Step 11: Once logged in the VM, open EDGE, then type https://whatismyipaddress.com/ within the VM (Take note of it before proceeding).
 
 
 
