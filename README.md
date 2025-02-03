@@ -1,4 +1,4 @@
-# VPN - Demonstrating changes in IP address using a Virtual Machine & Virtual Private Network (AZURE) - (PROTON)
+ VPN - Demonstrating changes in IP address using a Virtual Machine & Virtual Private Network (AZURE) - (PROTON)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9757a3b3-2a84-4277-a920-b419589441b0" alt="osTicket logo"/>
